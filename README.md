@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> ## 本仓库为修改版（Fork）
+> 本仓库是 [ComfyUI-Qwen-2](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Qwen-2) 的**修改版分支**，原作者为 **ZHO-ZHO-ZHO**（项目创建于 2024-06-11，原版代码最后更新于 **2024-09-20**，遵循 **GPL-3.0** 协议）。
+>
+> 在原版基础上新增的功能：**支持从本地路径加载已下载的 Qwen 模型文件，无需每次联网自动下载**。
+>
+> 原版仓库：https://github.com/ZHO-ZHO-ZHO/ComfyUI-Qwen-2
 
 ![qwen2](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Qwen-2/assets/140084057/f6f2593e-7794-4c6a-a594-491d4457700b)
 
